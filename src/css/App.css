@@ -1,0 +1,128 @@
+/*== 
+ * React & TailwindCSS Portfolio Main CSS File
+ * Powered by: @realstoman
+*/
+@import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@300;400;500;600;700&display=swap');
+
+body {
+	font-family: 'Fira Code', monospace;
+}
+
+/* Fonts */
+
+
+.font-general-variable {
+	font-family: 'Fira Code', monospace;
+}
+
+
+
+.font-general-variable-italic {
+	font-family: 'Fira Code', monospace;
+}
+
+
+
+.font-general-extralight {
+	font-family: 'Fira Code', monospace;
+}
+
+
+
+.font-general-extralight-italic {
+	font-family: 'Fira Code', monospace;
+}
+
+
+
+.font-general-light {
+	font-family: 'Fira Code', monospace;
+}
+
+
+
+.font-general-light-italic {
+	font-family: 'Fira Code', monospace;
+}
+
+
+
+.font-general-regular {
+	font-family: 'Fira Code', monospace;
+}
+
+
+
+.font-general-italic {
+	font-family: 'Fira Code', monospace;
+}
+
+
+.font-general-medium {
+	font-family: 'Fira Code', monospace;
+}
+
+
+
+.font-general-medium-italic {
+	font-family: 'Fira Code', monospace;
+}
+
+
+
+.font-general-semibold {
+	font-family: 'Fira Code', monospace;
+}
+
+
+
+.font-general-semibold-italic {
+	font-family: 'Fira Code', monospace;
+}
+
+
+
+.font-general-bold {
+	font-family: 'Fira Code', monospace;
+}
+
+
+
+.font-general-bold-italic {
+	font-family: 'Fira Code', monospace;
+}
+
+/* Scroll to top style */
+.scrollToTop {
+	@apply bg-teal-400;
+	@apply text-white;
+	position: fixed;
+	width: 100%;
+	align-items: center;
+	height: 20px;
+	justify-content: center;
+	z-index: 999;
+	cursor: pointer;
+	animation: fadeIn 0.3s;
+	transition: opacity 0.4s;
+	opacity: 0.9;
+}
+
+.scrollToTop:hover {
+	opacity: 1;
+}
+
+@keyframes fadeIn {
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 0.5;
+	}
+}
+
+.skills_card{
+	clip-path: polygon(50% 0%, 100% 38%, 82% 100%, 18% 100%, 0% 38%);
+	border: solid 2px black;
+	box-shadow: 0 20px 25px -5px rgb(0 0 0 / 0.1);
+}
