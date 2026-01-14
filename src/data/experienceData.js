@@ -18,7 +18,7 @@ export const experienceData=[
     company_name: "Ark-x Talent Solutions",
     icon: kwk,
     iconBg: "#E6DEDD",
-    date: "{Dec 2019 - Jan 2021}",
+    date: "{Jul 2023 - Dec 2023}",
     points: [
       "I worked in AGILE mode to contribute to the creation of various web applications using cutting-edge Frontend and Backend technologies.",
       " I also developed my technical knowledge and skills and obtained the required certifications.",
@@ -29,7 +29,7 @@ export const experienceData=[
     company_name: "ScS: The Home of Sofas",
     icon: lettref,
     iconBg: "#383E56",
-    date: "{Jan 2019 - Dec 2019}",
+    date: "{Nov 2019 - Feb 2023}",
     points: [
       "My 15-month experience as a customer service representative at a large British company in the UK has enhanced my communication and teamwork skills, enabling me to effectively align business needs with customer requirements.",
       
