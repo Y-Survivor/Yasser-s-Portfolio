@@ -28,12 +28,13 @@ const About = () => {
 
             <div className="font-general-regular w-full  md:w-full text-left">
               <p className="mb-4 text-ternary-dark dark:text-ternary-light text-lg">
-              I am currently an AWS Certified Cloud Practitioner and a dedicated student at The Geeks Institute 
-              pursuing Full Stack Coding Boot-camp with React and Python.<br></br> <br></br>
-              In 2023, I completed my first intensive Boot-camp in Software Engineering (Java/Spring and Angular) at ARK-X Talent Factory, where I contributed to developing
-              innovative web applications using advanced front-end and back-end technologies. <br></br> <br></br>
-              With experience as a Customer Advisor at a major British firm, I excel in communication
-              and teamwork, enabling me to effectively harmonize business demands with customer requirements.
+              Having recently obtained my AWS Solutions Architect Associate and AWS Cloud Practitioner
+              Certifications, now I aspire to become a skilled Engineer, Business and Data Analyst
+              capable of balancing business requirements with customer needs.<br></br> <br></br>
+              I am a Well-organized person and determined to resolve customer problems to their complete 
+              satisfaction. 
+              
+              
               </p>
               <div className="flex flex-col sm:flex-col md:flex-row justify-start md:gap-8 gap-4 mt-10 mb-10 sm:mb-8  ">
                 <a

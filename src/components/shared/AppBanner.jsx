@@ -52,7 +52,7 @@ const AppBanner = () => {
           }}
           className="font-general-semibold font-semibold mb-5 text-2xl lg:text-3xl xl:text-4xl text-center sm:text-left text-ternary-dark dark:text-primary-green"
         >
-          {"<"}Yasser Survivor{"/>"}
+          {"<"}Yasser SURVIVOR{"/>"}
         </motion.h1>
         <motion.p
           initial={{ opacity: 0 }}
@@ -67,12 +67,12 @@ const AppBanner = () => {
 
         <TypeAnimation
           sequence={[
-            ">_ Full-Stack Web Developer ",
+            ">_ Data Analyst 📊",
             1000,
-            ">_ Future AWS Solutions Architect ",
+            ">_ ☁️☁️AWS Solutions Architect ☁️☁️ ",
             1000,
-            ">_ Data Analyst ",
-            1000,
+            ">_ Passionate about Data-Driven Solutions💡",
+            1000,            
           ]}
           className="font-general-medium text-md md:text-lg lg:text-lg xl:text-xl text-center sm:text-left leading-normal text-gray-500 dark:text-gray-200 "
           speed={35}

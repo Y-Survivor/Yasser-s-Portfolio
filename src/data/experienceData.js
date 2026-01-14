@@ -6,32 +6,32 @@ export const experienceData=[
     company_name: "Freelance",
     icon: freelancer,
     iconBg: "#383E56",
-    date: "{Mars 2021 - Instant}",
+    date: "{Mars 2024 - Instant}",
     points: [
-      "Formateur Javascript",
-      "Création de sites web (PrestaShop, WordPress, …).",
-      
+      "Data Analytics (Excel,SQL, Power BI).",
+      "AWS Certified Solutions Architect.",
+      "AWS Data Engineer Associate.",      
     ],
   },
   {
-    title: "Responsable qualité",
-    company_name: "Kwk Laboratory",
+    title: "Management of IT projects",
+    company_name: "Ark-x Talent Solutions",
     icon: kwk,
     iconBg: "#E6DEDD",
     date: "{Dec 2019 - Jan 2021}",
     points: [
-      "Superviser et piloter la mise en place de la norme ISO 17020.",
-      "Assurer une veille normative et réglementaire.",
+      "I worked in AGILE mode to contribute to the creation of various web applications using cutting-edge Frontend and Backend technologies.",
+      " I also developed my technical knowledge and skills and obtained the required certifications.",
     ],
   },
   {
-    title:"Teleconseiller",
-    company_name: "Formacontact",
+    title:"Customer Advisor",
+    company_name: "ScS: The Home of Sofas",
     icon: lettref,
     iconBg: "#383E56",
     date: "{Jan 2019 - Dec 2019}",
     points: [
-      "Prise de rendez-vous (Projet isolation à 1 euro) ;.",
+      "My 15-month experience as a customer service representative at a large British company in the UK has enhanced my communication and teamwork skills, enabling me to effectively align business needs with customer requirements.",
       
     ],
   },

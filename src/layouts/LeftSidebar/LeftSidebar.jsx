@@ -36,7 +36,7 @@ const LeftSideBar = () => (
         <Social link="https://github.com/Yasser-Survivor">
           <FaGithub className="left__icon dark:fill-slate-100 dark:hover:fill-primary-green" />
         </Social>
-        <Social link="https://www.instagram.com/yassersurvivor/">
+        <Social link="https://www.instagram.com/survivoryasser/">
           <FaInstagram className="left__icon dark:fill-slate-100 dark:hover:fill-primary-green" />
         </Social>
         <Social link="https://www.linkedin.com/in/yasser-naji/">

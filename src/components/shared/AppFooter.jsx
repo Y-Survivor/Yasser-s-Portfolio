@@ -11,7 +11,7 @@ const socialLinks = [
   {
     id: 2,
     icon: <FaInstagram />,
-    url: 'https://www.instagram.com/yassersurvivor/',
+    url: 'https://www.instagram.com/survivoryasser/',
   },
   {
     id: 3,
