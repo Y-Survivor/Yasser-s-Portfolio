@@ -67,9 +67,9 @@ const AppBanner = () => {
 
         <TypeAnimation
           sequence={[
-            ">_ Data Analyst 📊",
+            ">_ Data Analytics Essentials...📊",
             1000,
-            ">_ ☁️☁️AWS Solutions Architect ☁️☁️ ",
+            ">_ ☁️AWS Solutions Architect☁️☁️",
             1000,
             ">_ Passionate about Data-Driven Solutions💡",
             1000,            
